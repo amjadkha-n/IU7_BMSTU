@@ -1,0 +1,12 @@
+Car
+Germany
+120000
+50
+Airplane
+Russia
+150000
+30
+Ship
+China
+150000
+20

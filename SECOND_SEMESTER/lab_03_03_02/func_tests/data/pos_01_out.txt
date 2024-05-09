@@ -1,0 +1,4 @@
+Matrix after sorting: 
+  3   2   1 
+ 88   3   2 
+ 11  22  33 

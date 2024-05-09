@@ -1,0 +1,1 @@
+Smallest distance between local maxima: 3

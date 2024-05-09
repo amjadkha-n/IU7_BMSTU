@@ -1,0 +1,7 @@
+3
+Mouse
+100
+keyboard
+70
+Cam
+160

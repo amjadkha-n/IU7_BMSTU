@@ -1,0 +1,16 @@
+Ball
+Bahrain
+1300
+95
+Lemon
+China
+1300
+50
+Grass
+Vietnam
+1300
+40
+Chocolate
+Malaysia
+1200
+100

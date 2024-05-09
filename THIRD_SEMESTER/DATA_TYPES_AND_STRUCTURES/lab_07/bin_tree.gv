@@ -1,0 +1,16 @@
+digraph Words {
+subgraph tier1
+{
+node [color="lightgreen",style="filled",group="tier1"]
+cereal
+chokolate
+cocumberr
+}
+bread -> apple;
+bread -> milk;
+apple -> banana;
+milk -> cereal;
+milk -> rice;
+cereal -> chokolate;
+chokolate -> cocumberr;
+}

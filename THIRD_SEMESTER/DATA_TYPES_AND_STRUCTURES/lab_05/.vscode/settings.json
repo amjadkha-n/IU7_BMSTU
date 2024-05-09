@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "stdlib.h": "c"
+    },
+    "git.ignoreLimitWarning": true,
+    "C_Cpp.errorSquiggles": "disabled"
+}

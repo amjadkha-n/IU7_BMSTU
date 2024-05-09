@@ -1,0 +1,16 @@
+Chocolate
+Malaysia
+1200
+100
+Lemon
+China
+1300
+50
+Melon
+Vietnam
+1300
+40
+Ball
+USA
+290
+10

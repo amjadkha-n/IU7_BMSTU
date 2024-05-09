@@ -1,0 +1,12 @@
+Telephone
+Iphone
+40000
+40
+Ipad
+Samsung
+40000
+30
+Laptop
+Dell
+30000
+10

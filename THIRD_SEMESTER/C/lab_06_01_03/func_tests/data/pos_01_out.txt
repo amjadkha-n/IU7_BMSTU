@@ -1,0 +1,4 @@
+Mouse
+100
+keyboard
+70

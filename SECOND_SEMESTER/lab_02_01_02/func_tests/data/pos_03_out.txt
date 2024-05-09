@@ -1,0 +1,1 @@
+Arithmetic mean of negative elements: -3.666667

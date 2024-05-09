@@ -1,0 +1,1 @@
+The maximum number that ends with five and is located below the side diagonal is: 55

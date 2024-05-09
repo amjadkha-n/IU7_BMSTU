@@ -1,0 +1,7 @@
+3
+Phone
+5
+Tablet
+67
+Tv
+100

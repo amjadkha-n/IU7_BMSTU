@@ -1,0 +1,7 @@
+3
+apple
+80
+mango
+140
+orange
+30

@@ -1,0 +1,4 @@
+Vegetable
+Car
+50
+30

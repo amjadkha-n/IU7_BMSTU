@@ -1,0 +1,13 @@
+ сплайн - это функция, определенная кусочно полиномами. Эти полиномы обычно имеют низкую степень и плавно соединяются в точках, 
+ называемых узлами. Сплайны часто используются для интерполяции, аппроксимации и сглаживания данных.
+
+spline is a function defined piecewise by polynomials. These polynomials usually have a low degree and are joined smoothly at points called knots. 
+Splines are commonly used for interpolation, approximation, and smoothing of data.
+
+Интерполяция сплайнами - это метод построения гладкой кривой, проходящей через заданный набор точек. В отличие от линейной интерполяции,
+которая соединяет точки прямыми линейными сегментами, интерполяция сплайнами использует кусочно-полиномиальные функции для создания кривой, 
+которая более плавно соответствует данным. Это приводит к более точному представлению исходной функции или набора данных.
+
+Spline interpolation is a method of constructing a smooth curve that passes through a given set of points. Unlike linear interpolation, 
+which connects the points with straight line segments, spline interpolation uses piecewise polynomial functions to generate a curve that fits the data more smoothly. 
+This results in a more accurate representation of the underlying function or dataset. 

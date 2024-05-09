@@ -1,0 +1,11 @@
+5
+Phone
+1000
+Tablet
+500
+Tv
+900
+Laptop
+1500
+Car
+2000

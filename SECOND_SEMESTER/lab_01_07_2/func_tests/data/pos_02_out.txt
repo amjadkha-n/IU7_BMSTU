@@ -1,0 +1,4 @@
+Exact value: 0.523599 
+Approximate value: 0.523599 
+Absolute error: 1.11022e-16 
+Relative error: 2.12037e-16 

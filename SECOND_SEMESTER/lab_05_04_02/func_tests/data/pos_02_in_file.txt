@@ -1,0 +1,8 @@
+Laptop
+Dell
+30000
+10
+Telephone
+Iphone
+40000
+40

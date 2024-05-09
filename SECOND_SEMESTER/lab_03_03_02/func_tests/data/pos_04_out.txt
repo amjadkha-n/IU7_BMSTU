@@ -1,0 +1,4 @@
+Matrix after sorting: 
+ 55  44  12   0 
+  5   4   3   2 
+ 44  55   3   2 
