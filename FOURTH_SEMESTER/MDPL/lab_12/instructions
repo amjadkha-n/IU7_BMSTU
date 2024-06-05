@@ -1,0 +1,9 @@
+1.Install aarch64-linux-gnu-gcc:
+sudo apt install gcc-aarch64-linux-gnu
+
+2.Verify Installation:
+aarch64-linux-gnu-gcc --version
+
+aarch64-linux-gnu-g++ main.cpp -o myprogram
+qemu-aarch64 -L /usr/aarch64-linux-gnu ./myprogram
+
